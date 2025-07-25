@@ -1,4 +1,3 @@
-```markdown
 # Business Intelligence Dashboard: Análisis de Ventas de Supermercado
 
 Este proyecto es una demostración de habilidades técnicas en Business Intelligence (BI) y visualización de datos utilizando Python. El objetivo es procesar, analizar y presentar un conjunto de datos de ventas de un supermercado en un dashboard interactivo que permita extraer insights de negocio.
@@ -59,4 +58,3 @@ Una vez ejecutado, la consola le indicará la dirección local (ej. http://local
 Si estás interesado en mi perfil y te gustaría discutir este u otros proyectos, no dudes en contactarme.
 
 [Linkedin](https://www.linkedin.com/in/juan-esteban-salazar-01b34527a/)
-```
